@@ -9,3 +9,4 @@ This is a demo project fot IT beginners course
 
     npm pack
     
+    Application runs on port 3000
