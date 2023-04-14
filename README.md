@@ -1,5 +1,7 @@
 # teamable
-This is a demo project fot IT beginners course
+This is a demo project fot IT beginners course 
+This is an application ffor amanaging employee user profiles
+
 
 ### To run the tests execute
 
