@@ -1,5 +1,6 @@
 # teamable
 This is a demo project fot IT beginners course 
+
 This is an application for managing employee profiles
 
 
@@ -13,4 +14,5 @@ This is an application for managing employee profiles
     
     
   Application runs on port 3000
+
 This is my first GitHub project for Learning.
