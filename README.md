@@ -16,3 +16,5 @@ This is an application for managing employee profiles
   Application runs on port 3000
 
 This is my first GitHub project for Learning.
+
+Learning Purpose
