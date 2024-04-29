@@ -1,7 +1,7 @@
 # teamable
 This is a demo project fot IT beginners course 
 
-This is an application for managing employee profiles
+This is an application for managing employee  user profiles
 
 
 ### To run the tests execute
